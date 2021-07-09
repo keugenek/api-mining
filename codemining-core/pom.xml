@@ -26,7 +26,7 @@
                     <configuration>
                         <source>1.8</source>
                         <target>1.8</target>
-                        <compilerArgument></compilerArgument>
+                        <compilerArgument/>
                     </configuration>
                 </plugin>
         <plugin>
@@ -78,7 +78,7 @@
 		<dependency>
 			<groupId>org.eclipse.birt.runtime</groupId>
 			<artifactId>org.eclipse.core.jobs</artifactId>
-			<version>3.5.300.v20130429-1813</version>
+			<version>3.7.0.v20150330-2103</version>
 		</dependency>
 		<dependency>
 			<groupId>org.eclipse.birt.runtime</groupId>
