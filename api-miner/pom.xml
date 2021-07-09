@@ -91,7 +91,7 @@
     <dependency> <!-- Nice option parser -->
       <groupId>com.beust</groupId>
       <artifactId>jcommander</artifactId>
-      <version>1.35</version>
+      <version>1.81</version>
     </dependency>
     <dependency> <!-- For MAPO/UP-Miner -->
       <groupId>nz.ac.waikato.cms.weka</groupId>
