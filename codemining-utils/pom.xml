@@ -24,7 +24,7 @@
                     <configuration>
                         <source>1.8</source>
                         <target>1.8</target>
-                        <compilerArgument></compilerArgument>
+                        <compilerArgument/>
                     </configuration>
                 </plugin>
         <plugin>
@@ -50,7 +50,7 @@
     <dependency>
       <groupId>com.google.guava</groupId>
       <artifactId>guava</artifactId>
-      <version>18.0</version>
+      <version>32.0.0-android</version>
     </dependency>
     <dependency>
 	<groupId>com.esotericsoftware</groupId>
